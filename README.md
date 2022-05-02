@@ -1,6 +1,6 @@
 # SIRNet
 
-This is the PyTorch implementation for "Boosting Video Object Segmentation based on Scale Inconsistency", ICME, 2022. We present a refinement framework to boost the performance of pre-trained semi-supervised video object segmentation models.
+This is the PyTorch implementation for "Boosting Video Object Segmentation based on Scale Inconsistency", ICME, 2022. We present a refinement framework to boost the performance of pre-trained semi-supervised video object segmentation models. [Project page](https://hengyiwang.github.io/projects/icme22.html)
 
 
 
