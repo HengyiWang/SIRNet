@@ -4,6 +4,8 @@ This is the PyTorch implementation for "Boosting Video Object Segmentation based
 
 
 
+![Overview](./Results/Overview.png)
+
 ### Installation:
 
 1. Download the DAVIS 16 and DAVIS 17 dataset
